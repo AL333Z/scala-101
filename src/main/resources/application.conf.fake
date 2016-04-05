@@ -1,0 +1,5 @@
+// You should copy this file in application.conf, register an app to dev.twitter.com, and put here these values:
+appKey = ""
+appSecret = ""
+accessToken = ""
+accessTokenSecret = ""
